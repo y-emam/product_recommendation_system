@@ -8,3 +8,8 @@ you can find the link of the dataset, model, code on kaggle.
 The link is below:
 Dataset: https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings
 Notebook with code and model: https://www.kaggle.com/yasseremam/product-recommender-system
+
+## IMPORTANT:
+
+if you found the notebook on kaggle different, then take only the model and work with this notebook.
+or run the notebook to generate the model
